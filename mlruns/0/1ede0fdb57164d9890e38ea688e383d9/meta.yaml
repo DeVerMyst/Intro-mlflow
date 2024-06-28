@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antony/Documents/GITHUB/Intro-mlflow/mlruns/0/1ede0fdb57164d9890e38ea688e383d9/artifacts
+end_time: 1719561630834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ede0fdb57164d9890e38ea688e383d9
+run_name: nosy-sow-633
+run_uuid: 1ede0fdb57164d9890e38ea688e383d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719561629871
+status: 3
+tags: []
+user_id: antony

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antony/Documents/GITHUB/Intro-mlflow/mlflow-project/mlruns/0/a60b78eccd6b4abda7cf57336b7f0888/artifacts
+end_time: 1719565026616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a60b78eccd6b4abda7cf57336b7f0888
+run_name: gregarious-tern-852
+run_uuid: a60b78eccd6b4abda7cf57336b7f0888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719565023939
+status: 3
+tags: []
+user_id: antony

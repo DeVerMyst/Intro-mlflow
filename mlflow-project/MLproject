@@ -1,0 +1,10 @@
+name: RegressionLineaireDiabetes
+
+conda_env: my_env.yml
+
+entry_points:
+  main:
+    parameters:
+      test_size: float
+      random_state: int
+    command: "python train.py -t {test_size} -r {random_state}"

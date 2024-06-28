@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antony/Documents/GITHUB/Intro-mlflow/mlflow-project/mlruns/0/8fbddab35a924886bfa35bdc2a5ed142/artifacts
+end_time: 1719569739886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fbddab35a924886bfa35bdc2a5ed142
+run_name: classy-squirrel-807
+run_uuid: 8fbddab35a924886bfa35bdc2a5ed142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569737146
+status: 3
+tags: []
+user_id: antony

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antony/Documents/GITHUB/Intro-mlflow/mlflow-project/mlruns/0/884aa2add70445d5a54e29ffc596c3aa/artifacts
+end_time: 1719569718824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 884aa2add70445d5a54e29ffc596c3aa
+run_name: amusing-fish-916
+run_uuid: 884aa2add70445d5a54e29ffc596c3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569716105
+status: 3
+tags: []
+user_id: antony
